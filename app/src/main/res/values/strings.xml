@@ -2,4 +2,5 @@
     <string name="app_name">ハッカソンチーム7</string>
     <string name="text">いぬかきがcommitしたよ！</string>
     <string name="inu_branch">いぬかきがブランチから変更。</string>
+    <string name="conflict_test">conflictのテスト</string>
 </resources>
