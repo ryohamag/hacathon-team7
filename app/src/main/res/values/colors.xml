@@ -4,4 +4,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="aaaaa">#00000000</color>
     <color name="bbbbb">#11111111</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="light_blue">#FF000000</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="purple">#FF800080</color>
+    <color name="pink">#FFFFC0CB</color>
 </resources>
